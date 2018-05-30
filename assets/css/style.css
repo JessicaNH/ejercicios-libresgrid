@@ -1,0 +1,35 @@
+.first-section {
+ background-color: yellow;
+ border:7px solid white;
+ padding: 3%;
+ 
+}
+
+.second-section{
+    background-color: greenyellow;
+    padding: 3%;
+    border:7px solid white;
+
+}
+.tercer-section {
+    background-color: cyan;
+    padding: 3%;
+    border:7px solid white;
+}
+.cuarto-section {
+
+    background-color: cornflowerblue;
+    padding: 3%;
+    border:7px solid white;
+}
+.quinto-section {
+    background-color: blueviolet;
+    padding: 3%;
+    border:7px solid white;
+}
+.sexto-section {
+    background-color: palevioletred;
+    padding: 3%;
+    border:7px solid white;
+}
+
